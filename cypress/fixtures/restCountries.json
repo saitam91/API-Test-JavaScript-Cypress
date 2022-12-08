@@ -1,0 +1,27 @@
+[
+  {
+      "Region":"America",
+      "Subregion":"Caribbean"  
+  },
+  
+  {
+      "Region":"Africa",
+      "Subregion":"Western Africa"
+  },
+  
+  {
+      "Region":"Oceania",
+      "Subregion":"Polynesia"
+  },
+
+  {
+      "Region":"Asia",
+      "Subregion":"Central Asia"
+  },
+
+  {
+      "Region":"Europe",
+      "Subregion":"Central Europe"
+  }
+]
+  
