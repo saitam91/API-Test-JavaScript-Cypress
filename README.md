@@ -42,3 +42,7 @@ To achieve this test framework, a test case with REST Countries API was created:
 
   - Run ```npm install --save-dev mochawesome ```
   
+ * Run Tests:
+
+   - Run ```npm run cy:run:chrome -- --reporter mochawesome --spec "cypress/e2e/MyAPIS/MyAPITest.cy.js"```
+  
